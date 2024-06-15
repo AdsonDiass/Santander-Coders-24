@@ -1,0 +1,37 @@
+São padroes de proetos que foram criados para solucionar problemas recorrentes da programação orientada a objetos
+
+Para que servem ?? usados para solucionar problemas comuns que costumamos enfrentes no dia a dia.
+
+Quem usa ?? os melhores programadores , eles nao reiventam a roda , mas para solucionar problemas comuns , eles usam esses padroes 
+
+Quais linguagens pode ser usados ??? qualquer linguagem orientada a objetos , como java , c# e python etc
+
+
+Tipos
+
+Creatinal - trata de de criação de objetos 
+
+Structural - relação entre os objetos e como eles integram entre si
+
+Behavioral - comunicação entre os objetos , em termos de responsabilidade e algoritmos chamados metodos etc
+
+Factory - e uma fabrica de instancias , ela e uma fabrica de produtos/objetos 
+
+SingletonLAZY - SO VAIR CRIAR A INSTANCIA SE PASSAR PELAS "LEIS" QUE ATRIBUIMOS 
+
+Prototype - evitar subclasses 
+
+Proxy -  camada antes do repository, subescrevendo os metodos, antes de mandar pro server 
+
+Adpter - adptar classes/bibliotecas mal feitas , adptando a nossaa necessidade 
+
+Strategy - e o conceito de pensar uma nova estrategia pro problema , simplicando o que já esta escrito 
+
+Chain of Responsibility - cadeia de responsabilidade, cada classe tinha sua responsabilidade e sua tarefa 
+
+Template Method - Um Template Method auxilia na definição de um algoritmo com partes do mesmo definidos por métodos abstratos.
+
+
+
+
+ 

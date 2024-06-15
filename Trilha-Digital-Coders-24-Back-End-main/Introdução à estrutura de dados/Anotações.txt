@@ -1,0 +1,15 @@
+LISTA LIGADA 
+
+lista ligada ou lista encadeada e uma estrutura de dados dinamica. Linear , formaod nnós , cada nó e capaz de armazenar uma informação e referenciar o proximo nó.
+
+Pilha 
+
+Pilha é uma estrutura de dados ordenada onde o ultimo elemento inserido será o primeiro a ser retirado(LIFO / FILO)
+
+A extremida por onde é feita inserção e remoção de elementos é denominada top.
+
+Fila - e uma estrutura onde primeiro elemento inserido sera o primeiro a ser retirado 
+
+
+
+

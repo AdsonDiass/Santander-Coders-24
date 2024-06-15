@@ -1,0 +1,80 @@
+Redes e a conexão entre dois ou mais dispositivos 
+
+Nic - placa de rede, responsavel por permitir a conexão do computador com o cabo de rede 
+
+Hub - hub e um harware que permite a conexão entre dispostivos atraves de cabos de par trançado e conectados entre si (ele n gerencia canais)
+
+Swith - tem a função de conectar os dispositivos , podemos definir como troca ou encaminhamento de informações 
+
+Roteador - tem a responsabilidade procurar as melhores rotas na internet para entregar os pacotes do remetente 
+
+Modem - responsavel pela modulação e demomuladação do sinal de internet 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Cabeamento estruturado - são padroes estabelecidas que difinem como seraão as organizações dos cabos e seus perifericos 
+
+Fibra optica - e a tecnologia guiada por cabo que oferece a maior velocidade de transmissão de dados chegabdo a altas velocidades na casa dos gbps , fibra e composto por pedaços de vidros pequenos , usando a velocidade da luz e dos seus raios pra transmitir 
+
+
+Rack - e um armario para hospedar os equipamentos de harwares como switches , roteadores e modens etc , organizar os cabos 
+
+--------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Modelo OSI - tem 7 camadas , fisica , enlace , rede , transporte ,
+sessão , Apresentação , aplicação (partes mais proximas do usuario)
+
+a comunicação pode ser feita da fisica ate chegar aplicação 
+
+Model TCP/ip - protocolo da internet ,4 camadas , aplicação , transporte , internet , acesso a rede 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+IPV4 - formato de 32 bits dividio em 8 octetos , pode variar de 0 ate 255 
+ 
+IPV6 - formato de 128 bits divido em 16 pares . 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Calculando sub redes 
+
+e permetindo conexão entre essas sub redes
+
+dividir a rede em sub partamentos.
+
+Colocando oq for preciso como prioridades
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+Dominio - e nada menos que um ip publico , em formato de domino pra facilitar mais 
+
+DNS - e dividido em varios servidores, tendo um servidor raiz , ate chegar onde vc deseja 
+
+https- protocolo , www - subodominio , umbler.com - dominio , br - subdiretorio
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

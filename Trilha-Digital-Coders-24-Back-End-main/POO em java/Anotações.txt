@@ -1,0 +1,9 @@
+Classes - e a moldadegem , ela que define oq o objeto vai ser 
+
+Metodos - eles que ditam , o que o objeto vai fazer , faz interagir , adiciona ações que aquela classe ou objeto vai fzr
+
+Encapsulamento - evita que qualquer pessoa use nossos metodos e atributos etc. protegendo eles 
+
+Construtores - são os que constroi os objetos , e como se ele fosse um pedreiro , classe e o engenheiro , e o construtor o pedreiro 
+
+

@@ -1,0 +1,52 @@
+tipos 
+
+numericos , inteiros e reais 
+
+textos
+
+data
+
+boolean 
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+Normalização de dados e um processo no qual se organiza e estrutura um banco de dados relacional de forma a eliminar redundancias e anomalias, garantindo a consistencia e integridade dos dados.
+
+1Fn: atomicidade de dados 
+
+ a 1fn estabelece que cada valor em tabela deve ser atomico ou seja indivisivel , nenhuma campo deve conter multiplos valores ou listas.
+
+ tem que ter um unico valor no atributo 
+
+2Fn 
+
+ a 2fn estabelece que um tabela deve estar na 1fn
+
+ TODOS OS ATRIBUTOS N CHAVES DEVE DEPENDER TOTALMENTE DA CHAVE PRIMARIA 
+
+ reduz a redundancia
+ 
+
+3FN 
+
+ deve estar na 2FN
+
+ nenhuma coluna n chave depender de outra coluna n chave 
+
+ evitar replicações e redudancias 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,8 @@
+Algoritmo e uma sequencia de regras e passos pra resolver um problema ou encontrar alguma solução.
+
+um codigo vc tem dizer passo a passo , tem que ser bem definidos 
+
+
+
+
+
